@@ -30,12 +30,12 @@ public class Main {
 
 //String methods
 //
-//String h=
-//"Aello";
-//String y="hello world";
-//String ans="";
-//int n=4;
-//char[] k={'l','k','f','g'};
+// String h=
+// "Aello";
+// String y="hello world";
+// String ans="";
+// int n=4;
+// char[] k={'l','k','f','g'};
 //        System.out.println(h.charAt(0));//char
 //        System.out.println(h.codePointAt(0));
 //        System.out.println(h.codePointBefore(1));
